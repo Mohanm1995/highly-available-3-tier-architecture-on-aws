@@ -139,5 +139,6 @@ Completed. Infrastructure was tested and verified. Resources deleted after proje
 
 ## Author
 
-Mohan
+Mohan M
+
 AWS and DevOps Engineer (Fresher)
