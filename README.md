@@ -142,3 +142,11 @@ Completed. Infrastructure was tested and verified. Resources deleted after proje
 Mohan M
 
 AWS and DevOps Engineer (Fresher)
+
+---
+
+## Acknowledgement
+
+This project was built under the guidance of my trainer as part of the AWS and DevOps hands-on training program. All implementation, configuration, and documentation was done by me.
+
+---
