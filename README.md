@@ -87,11 +87,12 @@ Note: In a production setup I would use Amazon RDS with Multi-AZ for the databas
 
 ---
 
-## Monitoring and Alerts
+**Monitoring and Alerts**
 
-- CloudWatch monitors CPU utilization on both Web and Application tiers
-- Auto Scaling triggers when CPU crosses 50 percent
-- SNS sends email notifications for every scaling event including instance launch and termination
+* CloudWatch monitors ALB Request Count per Target on the Web Tier
+* CloudWatch monitors CPU utilization on the Application Tier
+* Auto Scaling triggers when Request Count per Target crosses 50 requests (Web Tier) and CPU crosses 50 percent (Application Tier)
+* SNS sends email notifications for every scaling event including instance launch and termination
 
 ---
 
