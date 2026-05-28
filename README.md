@@ -1,5 +1,5 @@
 ---
-
+ 
 # Highly Available 3-Tier Architecture on AWS
 
 This project is part of my hands-on AWS and DevOps learning journey. I built this architecture to understand how real world production infrastructure works on AWS.
